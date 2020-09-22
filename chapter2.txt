@@ -1,0 +1,8 @@
+some of the git commands are:
+git log
+git commit -m "your text"
+git status
+git add chapter2
+everything starts on the file you want with:
+git init 
+now changed 
